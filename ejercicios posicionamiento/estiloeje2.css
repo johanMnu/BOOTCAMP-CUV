@@ -1,0 +1,20 @@
+body{
+    background-image: url(lakers.png)
+}
+.conteiner{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(183, 243, 17);
+    align-items: center;
+    text-align: center;
+   
+}
+.iconos{
+    letter-spacing: 50px;
+   display: flex;
+    top:70px;
+    left: 700px;
+    justify-content: center;
+    
+
+}
